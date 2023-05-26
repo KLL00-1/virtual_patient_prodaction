@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7f4220c.css",
-    "main.js": "/static/js/main.f887489c.js",
+    "main.css": "/static/css/main.79c18743.css",
+    "main.js": "/static/js/main.1cfe9ddb.js",
     "static/js/787.4e410afb.chunk.js": "/static/js/787.4e410afb.chunk.js",
     "static/media/doctor_room.jpg": "/static/media/doctor_room.de19d4d6d8d5e8d431ac.jpg",
     "static/media/doctor.png": "/static/media/doctor.6dc69c688a9d7e6b97c3.png",
     "static/media/patient.png": "/static/media/patient.ab9fa8e68f95b8c389c5.png",
     "index.html": "/index.html",
-    "main.b7f4220c.css.map": "/static/css/main.b7f4220c.css.map",
-    "main.f887489c.js.map": "/static/js/main.f887489c.js.map",
+    "main.79c18743.css.map": "/static/css/main.79c18743.css.map",
+    "main.1cfe9ddb.js.map": "/static/js/main.1cfe9ddb.js.map",
     "787.4e410afb.chunk.js.map": "/static/js/787.4e410afb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7f4220c.css",
-    "static/js/main.f887489c.js"
+    "static/css/main.79c18743.css",
+    "static/js/main.1cfe9ddb.js"
   ]
 }
