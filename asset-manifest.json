@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d650b7e.css",
-    "main.js": "/static/js/main.208026f0.js",
+    "main.css": "/static/css/main.4a912f4b.css",
+    "main.js": "/static/js/main.b664e51c.js",
     "static/js/787.4e410afb.chunk.js": "/static/js/787.4e410afb.chunk.js",
     "static/media/doctor1.png": "/static/media/doctor1.ad46689cb0903a8352ab.png",
     "static/media/patient1.png": "/static/media/patient1.439d472a78c0528d5d7f.png",
     "static/media/doctor_room.jpg": "/static/media/doctor_room.de19d4d6d8d5e8d431ac.jpg",
+    "static/media/ekg.jpg": "/static/media/ekg.e3651aeeb2db50bf3cf6.jpg",
+    "static/media/troponinovjy-minus.jpg": "/static/media/troponinovjy-minus.6abf03d442c5c60d412c.jpg",
     "index.html": "/index.html",
-    "main.1d650b7e.css.map": "/static/css/main.1d650b7e.css.map",
-    "main.208026f0.js.map": "/static/js/main.208026f0.js.map",
+    "main.4a912f4b.css.map": "/static/css/main.4a912f4b.css.map",
+    "main.b664e51c.js.map": "/static/js/main.b664e51c.js.map",
     "787.4e410afb.chunk.js.map": "/static/js/787.4e410afb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d650b7e.css",
-    "static/js/main.208026f0.js"
+    "static/css/main.4a912f4b.css",
+    "static/js/main.b664e51c.js"
   ]
 }
