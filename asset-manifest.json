@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3b00dc0.css",
+    "main.css": "/static/css/main.dfb89c2b.css",
     "main.js": "/static/js/main.d530e8f6.js",
     "static/js/787.4e410afb.chunk.js": "/static/js/787.4e410afb.chunk.js",
     "static/media/doctor1.png": "/static/media/doctor1.ad46689cb0903a8352ab.png",
@@ -9,12 +9,12 @@
     "static/media/ekg.jpg": "/static/media/ekg.e3651aeeb2db50bf3cf6.jpg",
     "static/media/troponinovjy-minus.jpg": "/static/media/troponinovjy-minus.6abf03d442c5c60d412c.jpg",
     "index.html": "/index.html",
-    "main.f3b00dc0.css.map": "/static/css/main.f3b00dc0.css.map",
+    "main.dfb89c2b.css.map": "/static/css/main.dfb89c2b.css.map",
     "main.d530e8f6.js.map": "/static/js/main.d530e8f6.js.map",
     "787.4e410afb.chunk.js.map": "/static/js/787.4e410afb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3b00dc0.css",
+    "static/css/main.dfb89c2b.css",
     "static/js/main.d530e8f6.js"
   ]
 }
